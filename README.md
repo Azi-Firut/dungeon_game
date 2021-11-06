@@ -2,4 +2,4 @@
 
 Simple text game
 
-![screenshot of sample](https://github.com/Zifirut/list_of_box/blob/master/Screenshot_3.png)
+![screenshot of sample](https://github.com/Zifirut/dungeon_game/blob/master/video.gif)
